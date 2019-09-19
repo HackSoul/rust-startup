@@ -1,0 +1,7 @@
+[package]
+name = "rust-the-book"
+version = "0.1.0"
+authors = ["xujiyou <xujiyou555@gmail.com>"]
+edition = "2018"
+
+[dependencies]
